@@ -40,9 +40,16 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/msm8953-common/proprietary/system_ext/lib/libmmparser_lite.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/libmmparser_lite.so \
     vendor/xiaomi/msm8953-common/proprietary/system_ext/lib64/libmmosal.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/libmmosal.so \
     vendor/xiaomi/msm8953-common/proprietary/system_ext/lib64/libmmparser_lite.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/libmmparser_lite.so \
+    vendor/xiaomi/msm8953-common/proprietary/system_ext/lib/libgralloc.qti.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/libgralloc.qti.so \
+    vendor/xiaomi/msm8953-common/proprietary/system_ext/lib/libstagefright_enc_common.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/libstagefright_enc_common.so \
+    vendor/xiaomi/msm8953-common/proprietary/system_ext/lib/libqdMetaData.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/libqdMetaData.so \
+    vendor/xiaomi/msm8953-common/proprietary/system_ext/lib64/libgralloc.qti.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/libgralloc.qti.so \
+    vendor/xiaomi/msm8953-common/proprietary/system_ext/lib64/libqdMetaData.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/libqdMetaData.so \
     vendor/xiaomi/msm8953-common/proprietary/system_ext/lib/libmmrtpdecoder.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/libmmrtpdecoder.so \
     vendor/xiaomi/msm8953-common/proprietary/system_ext/lib/libmmrtpencoder.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/libmmrtpencoder.so \
     vendor/xiaomi/msm8953-common/proprietary/vendor/lib/libsdm-disp-apis.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsdm-disp-apis.so \
+    vendor/xiaomi/msm8953-common/proprietary/vendor/lib/libmmosal.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmosal.so \
+    vendor/xiaomi/msm8953-common/proprietary/vendor/lib64/libmmosal.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmmosal.so \
     vendor/xiaomi/msm8953-common/proprietary/lib/libwfdavenhancements.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libwfdavenhancements.so \
     vendor/xiaomi/msm8953-common/proprietary/lib/libwfdcodecv4l2.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libwfdcodecv4l2.so \
     vendor/xiaomi/msm8953-common/proprietary/lib/libwfdcommonutils.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libwfdcommonutils.so \
